@@ -1,4 +1,4 @@
-# Azure Tenant Baseline + Minimal Infra + Hybrid Identity (AD Connect)
+# Azure Tenant Baseline + Infra + Hybrid Identity (AD Connect)
 
 ## Purpose
 Build a secure Entra ID tenant baseline, deploy minimal Azure infrastructure, and integrate an on-prem AD domain using Azure AD Connect.
